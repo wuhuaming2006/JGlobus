@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 package org.globus.ftp;
-
+sssss
 /**
    Represents a chunk of data cut out of a larger data volume.
    Buffer is characterized by offset at which it belongs to the
